@@ -1,10 +1,10 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/gerald-encabo" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <h2>Welcome to my page!</h2><br><br>
     <i>
         I'm Gerald.<br>
-        Currently Front-End Developer, and<br>
+        Currently a Front-End Developer, and<br>
         aspiring to be Full-Stack Developer<br>
     </i><br>
     <a href="https://www.linkedin.com/in/gerald-encabo/">
