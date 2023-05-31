@@ -1,7 +1,6 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/gerald-encabo" width="28px" alt="👋"></h1>
+<h1 align="center">Welcome to my page!</h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
     <i>
         I am Gerald Encabo<br>
         Currently a Front-End Developer, and<br>
