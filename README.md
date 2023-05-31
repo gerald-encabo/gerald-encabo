@@ -37,7 +37,7 @@
 ![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodejs)
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql)
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
-![NoSQL](https://img.shields.io/badge/nosqlL-black?style=for-the-badge&logo=nosql)
+![NoSQL](https://img.shields.io/badge/nosql-black?style=for-the-badge&logo=nosql)
 ![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)
 
 ### OS
