@@ -11,10 +11,10 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://www.facebook.com/gerald.encabo.5/">
-        <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=kaggle" alt="Kaggle">
+        <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=kaggle" alt="Facebook">
     </a>
     <a href="https://www.instagram.com/iamgeerald/">
-        <img src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=kaggle" alt="LeetCode">
+        <img src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=kaggle" alt="Instagram">
     </a>
 </p>
 
@@ -41,8 +41,8 @@
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)]
 
 ### OS
-[![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOS))]
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)]
+![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOS))
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 
 <p align="center">
   <a href="https://github.com/gerald-encabo">
