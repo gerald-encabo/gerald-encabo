@@ -32,8 +32,8 @@
 ### Server Sides
 ![ASP.NET](https://img.shields.io/badge/asp.net-black?style=for-the-badge&logo=asp/net)
 ![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
-![Express](https://img.shields.io/badge/expressjs-black?style=for-the-badge&logo=expressjs)
-![Node](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodejs)
+![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
+![Node](https://img.shields.io/badge/node-black?style=for-the-badge&logo=node)
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql)
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![NoSQL](https://img.shields.io/badge/nosql-black?style=for-the-badge&logo=nosql)
