@@ -2,7 +2,7 @@
 
 <p align="center">
     <i>
-        I am Gerald Encabo<br>
+        I am <b>Gerald Encabo</b><br>
         Currently a Front-End Developer, and<br>
         aspiring to be Full-Stack Developer<br>
     </i><br>
@@ -43,11 +43,6 @@
 ![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOS)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 
-<p align="center">
-  <a href="https://github.com/gerald-encabo">
-    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
-  </a>
-</p>
 <!--
 
 - 🔭 I’m currently working on ...
