@@ -30,8 +30,8 @@
 ![JSON](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json)
 
 ### Server Sides
-![ASP.NET](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)
-![MongoDB](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![ASP.NET](https://img.shields.io/badge/asp.net-black?style=for-the-badge&logo=asp/net)
+![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
 ![ExpressJS](https://img.shields.io/badge/expressjs-black?style=for-the-badge&logo=expressjs)
 ![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodejs)
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql)
