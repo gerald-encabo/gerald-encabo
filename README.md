@@ -19,29 +19,29 @@
 </p>
 
 ### Programming & Frameworks
-[![HTML5](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html)]
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)]
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)]
-[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)]
-[![SASS](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)]
-[![ReactJS](https://img.shields.io/badge/reactjs-black?style=for-the-badge&logo=reactjs)]
-[![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)]
-[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)]
-[![jQuery](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)]
-[![JSON](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json)]
+![HTML5](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html)
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
+![SASS](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)
+![ReactJS](https://img.shields.io/badge/reactjs-black?style=for-the-badge&logo=reactjs)
+![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)
+![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)
+![JSON](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json)
 
 ### Server Sides
-[![ASP.NET](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)]
-[![MongoDB](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)]
-[![ExpressJS](https://img.shields.io/badge/expressjs-black?style=for-the-badge&logo=expressjs)]
-[![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodejs)]
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql)]
-[![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)]
-[![NoSQL](https://img.shields.io/badge/nosqlL-black?style=for-the-badge&logo=nosql)]
-[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)]
+![ASP.NET](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)
+![MongoDB](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![ExpressJS](https://img.shields.io/badge/expressjs-black?style=for-the-badge&logo=expressjs)
+![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodejs)
+![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql)
+![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
+![NoSQL](https://img.shields.io/badge/nosqlL-black?style=for-the-badge&logo=nosql)
+![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)
 
 ### OS
-![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOS))
+![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOS)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 
 <p align="center">
