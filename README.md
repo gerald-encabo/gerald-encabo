@@ -7,7 +7,7 @@
         aspiring to be Full-Stack Developer<br>
     </i><br>
         <a href="https://ge-portfolio.vercel.app/">
-        <img src="https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=Portfolio" alt="Portfolio">
+        <img src="https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=Vercel" alt="Portfolio">
     </a>
     <a href="https://www.linkedin.com/in/gerald-encabo/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
