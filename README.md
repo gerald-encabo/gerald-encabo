@@ -6,14 +6,17 @@
         Currently a Front-End Developer, and<br>
         aspiring to be Full-Stack Developer<br>
     </i><br>
+        <a href="https://ge-portfolio.vercel.app/">
+        <img src="https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=Portfolio" alt="Portfolio">
+    </a>
     <a href="https://www.linkedin.com/in/gerald-encabo/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://www.facebook.com/gerald.encabo.5/">
-        <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=kaggle" alt="Facebook">
+        <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook" alt="Facebook">
     </a>
     <a href="https://www.instagram.com/iamgeerald/">
-        <img src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=kaggle" alt="Instagram">
+        <img src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=Instagram" alt="Instagram">
     </a>
 </p>
 
