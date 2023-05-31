@@ -1,9 +1,9 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/gerald-encabo" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <h2>Welcome to my page!</h2><br><br>
+    <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Gerald.<br>
+        I am Gerald Encabo<br>
         Currently a Front-End Developer, and<br>
         aspiring to be Full-Stack Developer<br>
     </i><br>
