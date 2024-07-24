@@ -25,6 +25,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
 ![SASS](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)
+![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwind)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)
@@ -40,6 +41,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![NoSQL](https://img.shields.io/badge/nosql-black?style=for-the-badge&logo=nosql)
 ![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)
+![RESTful API](https://img.shields.io/badge/restful-api-black?style=for-the-badge&logo=restful-api)
 
 ### OS
 ![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOS)
