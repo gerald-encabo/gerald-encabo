@@ -32,6 +32,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)
 ![jQuery](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)
 ![JSON](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json)
+![Ajax](https://img.shields.io/badge/ajax-black?style=for-the-badge&logo=ajax)
 
 ### Server Sides
 ![ASP.NET](https://img.shields.io/badge/asp.net-black?style=for-the-badge&logo=asp/net)
