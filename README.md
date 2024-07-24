@@ -41,6 +41,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![NoSQL](https://img.shields.io/badge/nosql-black?style=for-the-badge&logo=nosql)
 ![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)
 ![RESTful API](https://img.shields.io/badge/restful-api-black?style=for-the-badge&logo=restful-api)
 
 ### OS
