@@ -2,8 +2,9 @@
 
 <p align="center">
     <i>
-        I am <b>Gerald Encabo</b><br>
+        I'm <b>Gerald Encabo</b><br>
         Currently a Front-End Developer<br>
+        And Full-Stack Developer enthusiast
     </i><br>
         <a href="https://ge-portfolio.vercel.app/">
         <img src="https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=Vercel" alt="Portfolio">
