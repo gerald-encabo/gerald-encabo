@@ -45,6 +45,8 @@
 ![NoSQL](https://img.shields.io/badge/nosql-black?style=for-the-badge&logo=nosql)
 ![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+![Linux](https://img.shields.io/badge/linux-api-black?style=for-the-badge&logo=linux)
 ![RESTful API](https://img.shields.io/badge/restful-api-black?style=for-the-badge&logo=restful-api)
 
 ### OS
